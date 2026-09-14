@@ -1,0 +1,86 @@
+[
+  {
+    "original_path": "Math4AI 4031 - Final Project.pdf",
+    "preserved_path": "docs/project_assignment.pdf",
+    "sha256": "389cb5809490ec21244720097400d81e8e51450849a0986e94240cfbc6f3c7a9",
+    "bytes": 771858
+  },
+  {
+    "original_path": "Mathematics_for_AI___Final_Project.pdf",
+    "preserved_path": "archive/originals/docs/project_report.pdf",
+    "sha256": "b5e977fa6420f189fa585bc2ef231faae9a932312af03f5df6200b49f1586c5a",
+    "bytes": 1391219
+  },
+  {
+    "original_path": "1/confusion and curves.ipynb",
+    "preserved_path": "archive/originals/1/confusion and curves.ipynb",
+    "sha256": "551ec6248079e0b2169414539c3956984ac6876045ef4ee03215b2dba3343869",
+    "bytes": 1222032
+  },
+  {
+    "original_path": "1/HodaDatasetReader.py",
+    "preserved_path": "src/HodaDatasetReader.py",
+    "sha256": "181a8fbb641e9ae5966e56bb1d00d362befaa5fe8a894f273a5f5f0472f82634",
+    "bytes": 5164
+  },
+  {
+    "original_path": "1/Math4AI_Project_1.ipynb",
+    "preserved_path": "archive/originals/1/Math4AI_Project_1.ipynb",
+    "sha256": "15ec081b8e71ddc880965376df174c51ea207149727edd93adf6a9dffdd9ed9c",
+    "bytes": 245672
+  },
+  {
+    "original_path": "1/mlp_model.pth",
+    "preserved_path": "models/mlp_model.pth",
+    "sha256": "557fd491e61adfa35d137d74389665786bc380abc8254350456685a7a609d37d",
+    "bytes": 950620
+  },
+  {
+    "original_path": "1/mlp_weights.pth",
+    "preserved_path": "models/mlp_weights.pth",
+    "sha256": "87361fcc4c921f57923fc38cff9ee53257ddf6016cccf4b0232d3bacda1a7cb0",
+    "bytes": 949232
+  },
+  {
+    "original_path": "2/Math4AI_Project_2.ipynb",
+    "preserved_path": "archive/originals/2/Math4AI_Project_2.ipynb",
+    "sha256": "b5451c070f1b83cd079f867f0048c026d3a2275c5fa684ed13455121f9a79917",
+    "bytes": 1791565
+  },
+  {
+    "original_path": "3/Math4AI_Project_3_1.ipynb",
+    "preserved_path": "archive/originals/3/Math4AI_Project_3_1.ipynb",
+    "sha256": "17f10ef0efbca97cbd3fa381f870e737411d6744a601f395ed1b939983fc03ad",
+    "bytes": 311678
+  },
+  {
+    "original_path": "3/Math4AI_Project_3_2.ipynb",
+    "preserved_path": "archive/originals/3/Math4AI_Project_3_2.ipynb",
+    "sha256": "d84d1d363648da41d67f306e3fd2ba29d995150055bd0424eeec7f7492563d3b",
+    "bytes": 1330872
+  },
+  {
+    "original_path": "3/Transformer-SVD.ipynb",
+    "preserved_path": "archive/originals/3/Transformer-SVD.ipynb",
+    "sha256": "fa693399accd3f8e66da82919cdb1bb2abc79da42c34306dc2c5fd30755143c5",
+    "bytes": 8924
+  },
+  {
+    "original_path": "hoda/RemainingSamples.cdb",
+    "preserved_path": "data/raw/hoda/RemainingSamples.cdb",
+    "sha256": "11c9b0661b8de5f743b1b01ac76b4de19b238062d6da3500b5d6128fb1989e3d",
+    "bytes": 2440199
+  },
+  {
+    "original_path": "hoda/Test 20000.cdb",
+    "preserved_path": "data/raw/hoda/Test 20000.cdb",
+    "sha256": "f947c38071c886677ec212fe5000863fafae0b4ed349d97d51c33abe3c8e2b07",
+    "bytes": 2184440
+  },
+  {
+    "original_path": "hoda/Train 60000.cdb",
+    "preserved_path": "data/raw/hoda/Train 60000.cdb",
+    "sha256": "f8c573cf1e2e1b1e8b6e762efa23980e8a6c0ba4ebb5876f6caf899619b52f74",
+    "bytes": 6497871
+  }
+]

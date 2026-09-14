@@ -1,0 +1,39 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# Notebook/editor/system caches
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Local review and generated runs
+.review/
+outputs/*
+!outputs/.gitkeep
+# Downloaded datasets; original HODA files remain local, unmodified
+data/raw/
+# Hugging Face caches
+.cache/
+# Preserve original notebooks locally; publish the portable copies
+archive/originals/
+
+# Publication audit: preserved locally, not needed in the public repository
+models/mlp_model.pth
+docs/project_assignment.pdf
+docs/notebook_portability_changes.json
+results/*_historical.txt
+# Credentials and private local settings
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+.envrc

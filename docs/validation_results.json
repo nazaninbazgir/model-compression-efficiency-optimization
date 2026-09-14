@@ -1,0 +1,54 @@
+{
+  "original_files": {
+    "verified": 14,
+    "absent_optional_originals": []
+  },
+  "hoda_checkpoint": {
+    "samples": 20000,
+    "correct": 19656,
+    "accuracy_percent": 98.28,
+    "full_model_and_state_dict_identical": true
+  },
+  "notebooks": [
+    {
+      "notebook": "01_hoda_mlp_svd.ipynb",
+      "status": "passed",
+      "executed_code_cells_including_test_setup": 20,
+      "source_sha256": "ce1bc1570c0141663cf3ef1ef3535503a75fbf0f72d0bb22a01eea34f2184f53",
+      "historical_outputs_unchanged": true,
+      "scope": "all cells; one epoch; ranks 1 and 10 where applicable; reduced offline fixtures"
+    },
+    {
+      "notebook": "02_fashion_mnist_lora.ipynb",
+      "status": "passed",
+      "executed_code_cells_including_test_setup": 21,
+      "source_sha256": "564b146bac69aebf0991bf2d456f415e7f996e97014854d65848198e7a0aa658",
+      "historical_outputs_unchanged": true,
+      "scope": "all cells; one epoch; ranks 1 and 10 where applicable; reduced offline fixtures"
+    },
+    {
+      "notebook": "03_imdb_transformer_baseline.ipynb",
+      "status": "passed",
+      "executed_code_cells_including_test_setup": 22,
+      "source_sha256": "efffb38d7964bf8436629aec50dbfec03bbe34884d9ea43a90692d612e7f1264",
+      "historical_outputs_unchanged": true,
+      "scope": "all cells; one epoch; ranks 1 and 10 where applicable; reduced offline fixtures"
+    },
+    {
+      "notebook": "04_imdb_transformer_svd.ipynb",
+      "status": "passed",
+      "executed_code_cells_including_test_setup": 23,
+      "source_sha256": "903e19d9353c3d09a6c0171769b07cb41f6b33877d82cea567ca8b11c695e6bb",
+      "historical_outputs_unchanged": true,
+      "scope": "all cells; one epoch; ranks 1 and 10 where applicable; reduced offline fixtures"
+    }
+  ],
+  "environment": {
+    "python": "3.13.9",
+    "platform": "Windows-11-10.0.22631-SP0",
+    "torch": "2.8.0+cpu",
+    "torchvision": "0.23.0+cpu"
+  },
+  "date": "2026-09-14",
+  "full_experiment_retraining": false
+}

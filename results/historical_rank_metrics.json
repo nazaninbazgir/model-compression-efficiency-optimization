@@ -1,0 +1,158 @@
+{
+  "provenance": "Extracted from saved notebook text tables; not newly reproduced measurements. GPU memory conventions differ between experiments.",
+  "rows": [
+    {
+      "experiment": "hoda_svd",
+      "rank": 1,
+      "accuracy_percent": 19.535,
+      "trainable_parameters": 1734,
+      "training_seconds": 239.645668,
+      "gpu_memory_mb": 20.90918,
+      "source": "notebooks/01_hoda_mlp_svd.ipynb"
+    },
+    {
+      "experiment": "hoda_svd",
+      "rank": 5,
+      "accuracy_percent": 91.525,
+      "trainable_parameters": 8670,
+      "training_seconds": 239.632211,
+      "gpu_memory_mb": 21.032227,
+      "source": "notebooks/01_hoda_mlp_svd.ipynb"
+    },
+    {
+      "experiment": "hoda_svd",
+      "rank": 10,
+      "accuracy_percent": 93.765,
+      "trainable_parameters": 17340,
+      "training_seconds": 237.149863,
+      "gpu_memory_mb": 21.216797,
+      "source": "notebooks/01_hoda_mlp_svd.ipynb"
+    },
+    {
+      "experiment": "hoda_svd",
+      "rank": 20,
+      "accuracy_percent": 92.87,
+      "trainable_parameters": 33080,
+      "training_seconds": 241.262711,
+      "gpu_memory_mb": 21.564453,
+      "source": "notebooks/01_hoda_mlp_svd.ipynb"
+    },
+    {
+      "experiment": "hoda_svd",
+      "rank": 50,
+      "accuracy_percent": 92.215,
+      "trainable_parameters": 80300,
+      "training_seconds": 242.7174,
+      "gpu_memory_mb": 22.586426,
+      "source": "notebooks/01_hoda_mlp_svd.ipynb"
+    },
+    {
+      "experiment": "hoda_svd",
+      "rank": 100,
+      "accuracy_percent": 90.065,
+      "trainable_parameters": 159000,
+      "training_seconds": 252.032645,
+      "gpu_memory_mb": 24.484863,
+      "source": "notebooks/01_hoda_mlp_svd.ipynb"
+    },
+    {
+      "experiment": "hoda_svd",
+      "rank": 150,
+      "accuracy_percent": 88.1,
+      "trainable_parameters": 237700,
+      "training_seconds": 242.234867,
+      "gpu_memory_mb": 26.547852,
+      "source": "notebooks/01_hoda_mlp_svd.ipynb"
+    },
+    {
+      "experiment": "hoda_svd",
+      "rank": 200,
+      "accuracy_percent": 86.185,
+      "trainable_parameters": 298900,
+      "training_seconds": 242.676356,
+      "gpu_memory_mb": 28.314453,
+      "source": "notebooks/01_hoda_mlp_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 1,
+      "accuracy_percent": 59.072,
+      "trainable_parameters": 4040069,
+      "training_seconds": 230.724355,
+      "gpu_memory_mb": 2884.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 5,
+      "accuracy_percent": 55.984,
+      "trainable_parameters": 4043213,
+      "training_seconds": 231.271435,
+      "gpu_memory_mb": 2340.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 10,
+      "accuracy_percent": 56.584,
+      "trainable_parameters": 4047278,
+      "training_seconds": 231.016393,
+      "gpu_memory_mb": 2340.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 15,
+      "accuracy_percent": 63.456,
+      "trainable_parameters": 4051493,
+      "training_seconds": 232.472731,
+      "gpu_memory_mb": 2338.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 20,
+      "accuracy_percent": 61.288,
+      "trainable_parameters": 4055858,
+      "training_seconds": 231.552556,
+      "gpu_memory_mb": 2272.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 35,
+      "accuracy_percent": 60.14,
+      "trainable_parameters": 4069853,
+      "training_seconds": 232.191863,
+      "gpu_memory_mb": 2338.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 50,
+      "accuracy_percent": 67.5,
+      "trainable_parameters": 4085198,
+      "training_seconds": 232.361583,
+      "gpu_memory_mb": 2338.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 70,
+      "accuracy_percent": 72.596,
+      "trainable_parameters": 4107758,
+      "training_seconds": 232.27269,
+      "gpu_memory_mb": 2304.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    },
+    {
+      "experiment": "imdb_svd",
+      "rank": 100,
+      "accuracy_percent": 71.396,
+      "trainable_parameters": 4146098,
+      "training_seconds": 232.093247,
+      "gpu_memory_mb": 2338.0,
+      "source": "notebooks/04_imdb_transformer_svd.ipynb"
+    }
+  ]
+}
